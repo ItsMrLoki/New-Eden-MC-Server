@@ -1,0 +1,29 @@
+lastAccountName: ItsMrHornet
+timestamps:
+  login: 1607109309401
+  logout: 1607107665804
+  lastteleport: 1607107184255
+ipAddress: 78.21.195.91
+logoutlocation:
+  world: world
+  x: 197.62353056480885
+  y: 72.0
+  z: 321.6976970517034
+  yaw: -171.7104
+  pitch: 0.7497713
+lastlocation:
+  world: world
+  x: 197.8605392007112
+  y: 72.0
+  z: 322.7509079992811
+  yaw: -163.34883
+  pitch: 7.800068
+homes:
+  home:
+    world: world
+    x: 199.15880623421486
+    y: 76.0
+    z: 316.41894421688806
+    yaw: 176.70102
+    pitch: 19.800034
+nickname: §3Loki

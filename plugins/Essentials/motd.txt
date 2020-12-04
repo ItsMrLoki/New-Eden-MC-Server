@@ -1,0 +1,5 @@
+&c>&7>&c>&7>&c> &7&lNEW &c&lEDEN &7MINECRAFT &c<&7<&c<&7<&c<
+&7Welcome, {PLAYER}&7!
+&c/help &7for a list of commands.
+&c/list &7to see who is online.
+&7Online Players:&a {ONLINE} &7- World time:&a {WORLDTIME12}

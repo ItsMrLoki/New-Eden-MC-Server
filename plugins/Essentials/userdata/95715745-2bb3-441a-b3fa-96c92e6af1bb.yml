@@ -1,0 +1,28 @@
+lastAccountName: Nickbiggbutt
+timestamps:
+  login: 1607107893723
+  lastteleport: 1607107509705
+  logout: 1607107898882
+ipAddress: 5.186.118.165
+lastlocation:
+  world: world
+  x: 6554.186430122993
+  y: 63.0
+  z: -1354.8273747107394
+  yaw: 168.06552
+  pitch: 13.103463
+homes:
+  home:
+    world: world
+    x: 6545.57283822639
+    y: 63.0
+    z: -1354.4657622393468
+    yaw: -89.270645
+    pitch: 2.8223753
+logoutlocation:
+  world: world
+  x: 6554.186430122993
+  y: 63.0
+  z: -1354.8273747107394
+  yaw: 165.59799
+  pitch: 13.309085
