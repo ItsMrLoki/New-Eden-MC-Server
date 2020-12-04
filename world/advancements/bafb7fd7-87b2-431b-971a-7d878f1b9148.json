@@ -1,0 +1,47 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-11-18 21:14:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-11-18 21:14:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-11-18 21:14:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-11-18 21:14:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-11-18 21:14:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-11-18 21:14:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-11-18 21:13:39 -0500",
+      "minecraft:river": "2020-11-18 21:15:02 -0500",
+      "minecraft:plains": "2020-11-18 21:13:22 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}
